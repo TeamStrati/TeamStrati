@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TeamStrati
+- 👀 I’m interested in Coding and Video Editing
+- 🌱 I’m currently learning Java and Java Script
+- 📫 How to reach me jan_stratmann2006@web.de
